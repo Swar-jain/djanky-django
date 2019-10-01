@@ -6,5 +6,7 @@ We'll use the [project site](https://www.djangoproject.com/) install [guide](htt
 The "turnkey setup" process turned into a turkey setup process.  
 
 Enough so that I thought I needed to record steps & work-arounds. 
-I don't want developer time wasted in these DevOps type issues.
+
+I want this process streamlined.  I _especially_ don't want developer time wasted in these DevOps type issues.
+
 See the issues & wiki.
