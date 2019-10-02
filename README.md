@@ -5,7 +5,7 @@ We want to prototype a "container-ish" setup for Hobson's forthcoming Python-bas
 
 We'll use the [project site](https://www.djangoproject.com/) install [guide](https://docs.djangoproject.com/en/2.2/intro/install/) & [docs](https://docs.djangoproject.com/en/2.2/topics/install/) and [FAQs](https://docs.djangoproject.com/en/2.2/faq/install/#faq-python-version-support):
 
-The "turnkey setup" process turned into a turkey setup process.  
+The advertised "turnkey setup" process turned into a turkey setup process.  Well, maybe not _that_ bleak.  :smile:  
 
 Enough so that I thought I needed to record steps & work-arounds. 
 
