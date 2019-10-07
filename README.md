@@ -7,9 +7,10 @@ We'll use the [project site](https://www.djangoproject.com/) install [guide](htt
 
 The advertised "turnkey setup" process turned into a turkey setup process.  Well, maybe not _that_ bleak.  :wink:  
 
-Enough so that I thought I needed to record steps & work-arounds. 
+Enough so that I thought I should record steps & work-arounds. 
 
-### See the [issues...](https://github.com/mindcurrent/djanky-django/issues) & [**wiki...**](https://github.com/mindcurrent/djanky-django/wiki/Djanky-Django-World-HQ).
+### Deployment History:  See the [issues...](https://github.com/mindcurrent/djanky-django/issues) 
+### Useful resources:   See the [**wiki...**](https://github.com/mindcurrent/djanky-django/wiki/Djanky-Django-World-HQ).
 
 The website under development runs at http://localhost:8000
 
