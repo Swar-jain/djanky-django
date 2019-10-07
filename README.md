@@ -10,3 +10,12 @@ The advertised "turnkey setup" process turned into a turkey setup process.  Well
 Enough so that I thought I needed to record steps & work-arounds. 
 
 See the issues & wiki.
+
+The website under development runs at http://localhost:8000
+
+Here are links to:
+- The [admin sub-site...](http://localhost:8000/admin/)
+- The [Polls app...](http://localhost:8000/polls/)
+- Detail pages for:
+    - [Results for poll questiion #3](http://localhost:8000/polls/3/results/)
+    - [Votes for poll question #3](http://localhost:8000/polls/3/vote/)
