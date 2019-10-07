@@ -9,7 +9,7 @@ The advertised "turnkey setup" process turned into a turkey setup process.  Well
 
 Enough so that I thought I needed to record steps & work-arounds. 
 
-See the [issues...](https://github.com/mindcurrent/djanky-django/issues) & [wiki...](https://github.com/mindcurrent/djanky-django/wiki/Djanky-Django-World-HQ).
+See the [issues...](https://github.com/mindcurrent/djanky-django/issues) & [*wiki...*](https://github.com/mindcurrent/djanky-django/wiki/Djanky-Django-World-HQ).
 
 The website under development runs at http://localhost:8000
 
