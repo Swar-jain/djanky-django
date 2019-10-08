@@ -50,9 +50,9 @@ For the first endpoint, `/api/users`, an available `GET` request returns a list 
 The second endpoint `/api/users/<id>` represents a single user. A `GET` request returns information about just that one user.
 
 Technically:
-- if we added POST to the first endpoint we could create a new user, 
-- while adding DELETE to the second endpoint would allow us to delete a single user.  
+- if we added `POST` to the first endpoint we could create a new user, 
+- while adding `DELETE` to the second endpoint would allow us to delete a single user.  
 
-...well, we ain't gonna do dat sheet.  :wink:
+...well, we ain't-a gonna do dat sheet!  :wink:
 
 
