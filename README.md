@@ -20,3 +20,34 @@ Here are links to:
 - Some detail pages for:
     - [Results for poll questiion #3](http://localhost:8000/polls/3/results/)
     - [Votes for poll question #3](http://localhost:8000/polls/3/vote/)
+    
+    
+### Implementing a RESTful API:
+
+The `HTTP` protocol contains a number of request methods (i.e. "verbs") that can be used while interacting w/ server "endpoints". 
+
+Ultimately creating an API involves making a series of URL endpoints that can service associated HTTP verbs.
+
+These "verbs" (`POST`, `GET`, `PUT`, and `DELETE`)  map to traditional database `CRUD` functionality:
+```
+CRUD                            HTTP Verbs  
+----                            ----------
+Create  <-------------------->  POST
+Read    <-------------------->  GET
+Update  <-------------------->  PUT
+Delete  <-------------------->  DELETE
+```
+
+So -- we will create the following API endpoints for djankysite:
+
+```
+https://www.my-djankysite.com/api/users  # GET returns a collection of all users  
+https://www.my-djankysite.com/api/users/<id> # GET returns a single user
+```
+
+For the first endpoint, `/api/users`, an available `GET` request returns a list of all available users. This type of endpoint which returns multiple data resources is known as a collection.
+
+The second endpoint `/api/users/<id>` represents a single user. A `GET` request returns information about just that one user.
+
+Technically, if we added POST to the first endpoint we could create a new user, while adding DELETE to the second endpoint would allow us to delete a single user.  We ain't gonna do dat sheet.  :wink:
+
