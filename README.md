@@ -24,6 +24,8 @@ Here are links to:
     
 ### Implementing a RESTful API:
 
+A website consists of web pages with HTML, CSS, images, JavaScript, and more. But a web API has endpoints instead which are URLs with a list of available actions (HTTP verbs) that expose data (typically in [`JSON`](https://json.org/), which is the most common data format these days and the default for Django REST Framework).
+
 The `HTTP` protocol contains a number of request methods (i.e. "verbs") that can be used while interacting w/ server "endpoints". 
 
 Ultimately creating an API involves making a series of URL endpoints that can service associated HTTP verbs.
